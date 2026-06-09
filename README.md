@@ -13,9 +13,9 @@ Desenvolvedor focado em aplicacoes web, automacao comercial e ferramentas intern
 ## Projetos Em Destaque
 
 - [ZapBot Pro](https://github.com/Gbseca/zapbot-pro) - atendimento e CRM para WhatsApp com IA, fallback por regras e kanban de leads.
-- [Barbearia D.O](https://github.com/Gbseca/barbearia-do) - sistema de agendamento com Next.js, Supabase e painel administrativo.
-- [Lead Flow Manager](https://github.com/Gbseca/leadfollow) - dashboard de leads com pipeline, comandos e apoio de IA.
-- [WhatsApp Message Launcher](https://github.com/Gbseca/whatsender) - gerador de links personalizados para contatos via WhatsApp.
+- [Barbearia D.O](https://github.com/Gbseca/barbearia-do-agendamento) - sistema de agendamento com Next.js, Supabase e painel administrativo.
+- [Lead Flow Manager](https://github.com/Gbseca/lead-flow-manager) - dashboard de leads com pipeline, comandos e apoio de IA.
+- [WhatsApp Message Launcher](https://github.com/Gbseca/whatsapp-message-launcher) - gerador de links personalizados para contatos via WhatsApp.
 - [Valeria Britto Fotografia](https://github.com/Gbseca/valeria-britto-fotografia-rj) - portfolio mobile-first com painel simples de conteudo.
 
 ## Stack Principal
@@ -25,4 +25,3 @@ React, TypeScript, Next.js, Vite, Node.js, Express, Supabase, Tailwind CSS, Netl
 ## Como Eu Trabalho
 
 Procuro construir projetos com objetivo claro, README direto, variaveis de ambiente separadas do codigo e interfaces pensadas para quem vai usar de verdade. Meu foco atual e evoluir produtos web com boa apresentacao, organizacao e utilidade real.
-
