@@ -1,4 +1,4 @@
-# Gabriel Seca
+# Gabriel Fonseca
 
 Desenvolvedor focado em aplicacoes web, automacao comercial e ferramentas internas para operacoes pequenas e medias. Gosto de transformar problemas bem praticos em interfaces simples de usar: agendamento, captura de leads, dashboards, landing pages e fluxos com WhatsApp.
 
